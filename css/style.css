@@ -1,0 +1,50 @@
+/* Navbar*/
+.navbar {
+    padding-bottom: 5px
+}
+
+.navbar-brand {
+    font-size: 14px;
+}
+
+/* Header */
+
+.section {
+    margin: 50px
+}
+
+#notification {
+    height: 400px;
+    background: url(../img/christopher-burns-360244.jpg);
+    background-size: cover;
+}
+.header-content {
+    padding: 120px;
+    color: white;
+}
+
+.work-photo {
+    box-shadow: 0 20px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
+}
+
+#survey {
+    text-align: center;
+    background: grey;
+    height: 340px;
+    padding-top: 100px;
+    color: white;
+}
+
+#job {
+    text-align: center;
+}
+
+#job h1 {
+    padding-bottom: 20px;
+}
+
+.deal {
+    height: 250px;
+    width: 250px;
+}
